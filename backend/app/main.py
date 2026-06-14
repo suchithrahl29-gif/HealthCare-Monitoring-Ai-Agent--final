@@ -1,3 +1,6 @@
+import streamlit as st
+
+st.write("✅ Streamlit started")
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
