@@ -1,9 +1,6 @@
-streamlit
 fastapi==0.116.1
 uvicorn==0.35.0
 openai==1.93.0
 python-dotenv==1.1.1
 pydantic==2.11.7
 sqlalchemy==2.0.41
-passlib[bcrypt]==1.7.4
-bcrypt==4.1.3
